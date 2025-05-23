@@ -1,0 +1,5 @@
+navigation:
+  - title: Projekte
+    url: /projects
+  - title: Praktika
+    url: /lab
